@@ -33,7 +33,7 @@ Languages and Tools:
 
 </br>
 
-# A list of some ~COOL~ projects I worked on:
+# A list of some *COOL* projects I worked on:
 </br>
 
 ## **nod3-comfirm** - *common firmware for ESP32 based devices*
@@ -49,15 +49,19 @@ Written using ESP_IDF and modern(ish) C++,nod3-comfirm aims to be used as a basi
 https://github.com/fflori4n/nod3-comfirm
 
 </br></br>
+
 ## IoT wind and rain sensors
 ##### `#ESP-Arduino`, `websockets`, `ESP32_S3`
 The classic maker project of a 'wheather station' basically. Measuring wind speed, wind angle and rainfall. The sensors are fully 3D printed. Sensor connects to Homeassistant via websocket and custom component, this was written in Arduino framework using ESP32-S3, the sensors are now also supported in nod3-confirm, so the next version will be battery/solar + ESP C3.
 
+<p align="center">
 <img src="pics/szeltekero.png" alt="wind rain sens architecture" style="width: 28%; height:auto;">
 <img src="pics/wind_sens.png" alt="wind sensor" style="width: 30%; height:auto;">
 <img src="pics/rain_sens1.png" alt="wind sensor" style="width: 30%; height:auto;">
+</p>
 
 </br></br>
+
 ## **OPEN hand** - *hand partial prosthetic*
 ##### `mechanical design`, `motor positioning`, `robotics`
 Working in a team of four engineers to build a prototype 3D printed partial hand prosthesis. To prove that a prosthesis does not have to cost a lot of money to be actually useful, and can easily be built using tech available to makers. Read more about the goals and challenges on the project's github page: https://github.com/AleksaHeler/OpenHand
@@ -69,6 +73,7 @@ Working in a team of four engineers to build a prototype 3D printed partial hand
 <img src="pics/fingerV2.png" alt="hand2 - open hand" style="width: 40%; height:auto;">
 
 </br></br>
+
 ## **Smart Hive** - *Smart sensor system for monitoring bee hives - MSC final project*
 ##### `SIM7000G`, `RS485`, `MQTT`, `solar power`, `ESP32_Wroom_32_u`, `Atmega168`, `Atmega328`
 Embedded (Arduino based) sensors for measuring temperature, humidity, ambient light and hive weight. These values are mesured, forwarded to a Gateway device over RS485. Gateway device aggregates data from sensors and forwards it to the smart hive server via an LTE/4G mobile modem.
@@ -83,9 +88,12 @@ https://github.com/fflori4n/smartHive
 <img src="pics/hives.png" alt="hives - smart hive" style="width: 35%; height:auto;">
 
 </br></br>
+
 ## **Image processing for agricultural drone** 
 ##### `C++14`, `python`, `RPI4`
-R&D project in collaboration with Drontech ([Drontech Facebook page](https://www.facebook.com/dronteh)) to develop a proof of concept for a device that uses computer vision to estimate plant mass beneath a drone. The system runs on a Raspberry Pi 4 using OpenCV for real-time frame processing. Due to limited processing power, the frame rate is relatively low (around 15 FPS). A GPIO pin is set to HIGH when plant mass exceeds a defined threshold. For testing purposes, a green LED was connected to this output. Ultimately, the signal is intended to control sprayer valves, turning off pesticide flow when the area under the flight path lacks viable cultivation or the plants have dried out, avoiding unnecessary pesticide use on unproductive areas.
+R&D project in collaboration with Drontech ([Drontech Facebook page](https://www.facebook.com/dronteh)) to develop a proof of concept for a device that uses computer vision to estimate plant mass beneath a drone. The system runs on a Raspberry Pi 4 using OpenCV for real-time frame processing. Due to limited processing power, the frame rate is relatively low (around 15 FPS).
+
+ A GPIO pin is set to HIGH when plant mass exceeds a defined threshold. For testing purposes, a green LED was connected to this output. Ultimately, the signal is intended to control sprayer valves, turning off pesticide flow when the area under the flight path lacks viable cultivation or the plants have dried out, avoiding unnecessary pesticide use on unproductive areas.
 
 <img src="pics/rpiDroneCam.jpg" alt="rpi cam - drone cam" style="width: 25%; height:auto;">
 <img src="pics/rpiFlying.png" alt="rpi flying - drone cam" style="width: 50%; height:auto;">
@@ -96,6 +104,7 @@ R&D project in collaboration with Drontech ([Drontech Facebook page](https://www
 *yes, rpi is fixed to the drone using zip ties, and getting absolutely blasted by ground obstacle radar*
 
 </br></br>
+
 ## **Liquid level sensing based on capacitance** 
 ##### `ESP web-user interface`, `analogue sensor design`, `KiCAD`
 This project is more interesting than it is practical. It uses the capacitance of a partially submerged, isolated wire to estimate the liquid level inside a water reservoir. While not very precise (±20 mm on a 1400 mm probe if perfectly calibrated), it is a very inexpensive solution that definitely works to a degree. Combine it with an ESP32 and a smartphone, and you have a reservoir level sensor with a web-based readout.
@@ -109,6 +118,7 @@ https://github.com/fflori4n/ESP_tankLevelSensor
 <img src="pics/waterLevelSens.png" alt="device readout + web iface - tank level" style="width: 40%; height:auto;">
 
 </br></br>
+
 ## **3D design and printing**
 ##### `3d-printing`, `FDM`, `CAD`, `CNC`
 
