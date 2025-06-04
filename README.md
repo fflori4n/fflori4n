@@ -66,11 +66,17 @@ The classic maker project of a 'wheather station' basically. Measuring wind spee
 ##### `mechanical design`, `motor positioning`, `robotics`
 Working in a team of four engineers to build a prototype 3D printed partial hand prosthesis. To prove that a prosthesis does not have to cost a lot of money to be actually useful, and can easily be built using tech available to makers. Read more about the goals and challenges on the project's github page: https://github.com/AleksaHeler/OpenHand
 
-<img src="pics/AleksaHeler_OpenHand_OpenHand_built.jpg" alt="linear motor - open hand" style="width: 70%; height:auto;">
-<img src="pics/linear_motor.png" alt="linear motor - open hand" style="width: 40%; height:auto;">
-<img src="pics/hall_feedback_pattern.png" alt="hall feedback pattern - open hand" style="width: 40%; height:auto;">
+<p align="center">
+<img src="pics/AleksaHeler_OpenHand_OpenHand_built.jpg" alt="linear motor - open hand" style="width: 80%; height:auto;">
+</p>
+<p align="center">
+<img src="pics/linear_motor.png" alt="linear motor - open hand" style="width: 42.5%; height:auto;">
+<img src="pics/hall_feedback_pattern.png" alt="hall feedback pattern - open hand" style="width: 38.5%; height:auto;">
+</p>
+<p align="center">
 <img src="pics/hand_V07.png" alt="hand07 - open hand" style="width: 40%; height:auto;">
 <img src="pics/fingerV2.png" alt="hand2 - open hand" style="width: 40%; height:auto;">
+</p>
 
 </br></br>
 
@@ -80,12 +86,20 @@ Embedded (Arduino based) sensors for measuring temperature, humidity, ambient li
 
 https://github.com/fflori4n/smartHive
 
+<p align="center">
 <img src="pics/BHS_all_sensors_00.JPG" alt="BHS sensor - smart hive" style="width: 80%; height:auto;">
+</p>
+<p align="center">
 <img src="pics/GW_gateway_board_top.png" alt="Gateway - smart hive" style="width: 30%; height:auto;">
 <img src="pics/hive_solar_deploy.png" alt="solar deploy - smart hive" style="width: 45%; height:auto;">
+</p>
+<p align="center">
 <img src="pics/DHT_sensor_in_hive_av0.png" alt="DHT in hive - smart hive" style="width: 40%; height:auto;">
 <img src="pics/rs485OldScope.png" alt="scope RS485 - smart hive" style="width: 35%; height:auto;">
+</p>
+<p align="center">
 <img src="pics/hives.png" alt="hives - smart hive" style="width: 35%; height:auto;">
+</p>
 
 </br></br>
 
@@ -95,10 +109,16 @@ R&D project in collaboration with Drontech ([Drontech Facebook page](https://www
 
  A GPIO pin is set to HIGH when plant mass exceeds a defined threshold. For testing purposes, a green LED was connected to this output. Ultimately, the signal is intended to control sprayer valves, turning off pesticide flow when the area under the flight path lacks viable cultivation or the plants have dried out, avoiding unnecessary pesticide use on unproductive areas.
 
+<p align="center">
 <img src="pics/rpiDroneCam.jpg" alt="rpi cam - drone cam" style="width: 25%; height:auto;">
 <img src="pics/rpiFlying.png" alt="rpi flying - drone cam" style="width: 50%; height:auto;">
+</p>
+<p align="center">
 <img src="pics/drone_plant_detect.gif" alt="rpi flying - drone cam" style="width: 80%; height:auto;">
+</p>
+<p align="center">
 <img src="pics/droneWGreenLed.png" alt="rpi flying - drone cam" style="width: 25%; height:auto;">
+</p>
 
 
 *yes, rpi is fixed to the drone using zip ties, and getting absolutely blasted by ground obstacle radar*
@@ -112,10 +132,13 @@ This project is more interesting than it is practical. It uses the capacitance o
 The project repo:
 https://github.com/fflori4n/ESP_tankLevelSensor
 
-
+<p align="center">
 <img src="pics/lm555CapacitiveLevelSens.png" alt="lm555 transducer - tank level" style="width: 50%; height:auto;">
 <img src="pics/dielectric.png" alt="lm555 transducer - tank level" style="width: 40%; height:auto;">
+</p>
+<p align="center">
 <img src="pics/waterLevelSens.png" alt="device readout + web iface - tank level" style="width: 40%; height:auto;">
+</p>
 
 </br></br>
 
@@ -129,17 +152,26 @@ Honorable mention: A DIY CNC router I built way back, and it has it's own instru
 grabCAD page with some models that are shared for free:
 https://grabcad.com/florian.f-4/models
 
+<p align="center">
 <img src="pics/anet_a8_working.png" alt="3d anet" style="width: 28%; height:auto;">
 <img src="pics/anet_a8.png" alt="3d anet" style="width: 50%; height:auto;">
+</p>
+<p align="center">
 <img src="pics/3dRandomPrints.png" alt="random 3d parts" style="width: 50%; height:auto;">
 <img src="pics/slaT5pulley.png" alt="sla pulley" style="width: 25%; height:auto;">
+</p>
+<p align="center">
 <img src="pics/printing_hand_parts.png" alt="printing" style="width: 25%; height:auto;">
 <img src="pics/klipper_jank.png" alt="klipper" style="width: 25%; height:auto;">
+</p>
+<p align="center">
 <img src="pics/3d_upgrade.png" alt="klipper" style="width: 25%; height:auto;">
+</p>
 
 Also at some point, my coffee table was a 3D printer box with 3D printed legs, so that has to count for something I think:
-
+<p align="center">
 <img src="pics/coffee_table.png" alt="klipper" style="width: 60%; height:auto;">
+</p>
 
 
 
