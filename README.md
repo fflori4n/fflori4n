@@ -8,16 +8,17 @@ yhello 👋, I am **fFlorian**, embedded engineer/ maker with a formal education
 
 The tagline for my embedded goals would be something like:
 
-Do as much with as little as possible.
+*~ Do as much with as little as possible. ~*
 
-##### *CONTACT*:
+##### *CONTACT ME @*:
+| | |
+|-----|-----|
+| Website | [fflori4n.com](fflori4n.com) |
+| Email |    [fflori4n@gmail.com](mailto:fflori4n@gmail.com) |
+| Grabcad: |   [grabcad.com/florian.f-4](https://grabcad.com/florian.f-4) |
+| Github: |   [github.com/fflori4n](https://github.com/fflori4n) |
 
-Email:      [fflori4n@gmail.com](mailto:fflori4n@gmail.com)</br>
-Website:    [fflori4n.com](fflori4n.com)</br>
-Github:     [github.com/fflori4n](https://github.com/fflori4n)</br>
-Grabcad:    [grabcad.com/florian.f-4](https://grabcad.com/florian.f-4)
-
-##### *PROGRAMMING LANGUAGES*:
+##### *PROGRAMMING LANGUAGES and TOOLS*:
 <div>
 <a href="https://www.cprogramming.com/" title="C programming language">
 <img src="assets/devicons/c-original.svg" alt="\" style="width: auto; height:3em;">
@@ -59,8 +60,7 @@ Grabcad:    [grabcad.com/florian.f-4](https://grabcad.com/florian.f-4)
 </br>
 </div>
 
-## **
-*Let me show you some *COOL* projects I worked on:*
+*Let me show you some **COOL** projects I worked on:*
 </br>
 <details>
   <summary>PROJECT PORTFOLIO:</summary>
