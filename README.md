@@ -11,57 +11,53 @@ The tagline for my embedded goals would be something like:
 *~ Do as much with as little as possible. ~*
 
 ##### *CONTACT ME @*:
-| | |
-|-----|-----|
-| Website | [fflori4n.com](https://fflori4n.com) |
-| Email |    [fflori4n@gmail.com](mailto:fflori4n@gmail.com) |
-| Grabcad: |   [grabcad.com/florian.f-4](https://grabcad.com/florian.f-4) |
-| Github: |   [github.com/fflori4n](https://github.com/fflori4n) |
+
+Website:[fflori4n.com](https://fflori4n.com)
+Email:[fflori4n@gmail.com](mailto:fflori4n@gmail.com)
+Grabcad:[grabcad.com/florian.f-4](https://grabcad.com/florian.f-4)
+Github:[github.com/fflori4n](https://github.com/fflori4n)
 
 ##### *PROGRAMMING LANGUAGES and TOOLS*:
 <div>
 <a href="https://www.cprogramming.com/" title="C programming language">
-<img src="assets/devicons/c-original.svg" alt="\" style="width: auto; height:3em;">
+<img src="https://github.com/fflori4n/fflori4n/raw/main/assets/devicons/c-original.svg" alt="\" style="width: auto; height:3em;">
 </a>
 <a href="https://cppreference.com/" title="C++">
-<img src="assets/devicons/cplusplus-original.svg" alt="\" style="width: auto; height:3em;">
+<img src="https://github.com/fflori4n/fflori4n/raw/main/assets/devicons/cplusplus-original.svg" alt="\" style="width: auto; height:3em;">
 </a>
 <a href="https://www.python.org/" title="Python programming language (as opposed to python the snake, or the guy from mythology)">
-<img src="assets/devicons/python-original.svg" alt="\" style="width: auto; height:3em;">
+<img src="https://github.com/fflori4n/fflori4n/raw/main/assets/devicons/python-original.svg" alt="\" style="width: auto; height:3em;">
 </a>
 <a href="https://www.gnu.org/" title="Linux based operating systems">
-<img src="assets/devicons/linux-original.svg" alt="\" style="width: auto; height:3em;">
+<img src="https://github.com/fflori4n/fflori4n/raw/main/assets/devicons/linux-original.svg" alt="\" style="width: auto; height:3em;">
 </a>
 <a href="https://www.arduino.cc/" title="Arduino">
-<img src="assets/devicons/arduino-original-wordmark.svg" alt="\" style="width: auto; height:3em;">
+<img src="https://github.com/fflori4n/fflori4n/raw/main/assets/devicons/arduino-original-wordmark.svg" alt="\" style="width: auto; height:3em;">
 </a>
 <a href="https://en.wikipedia.org/wiki/PowerShell" title="Power shell">
-<img src="assets/devicons/powershell-plain.svg" alt="\" style="width: auto; height:3em;">
+<img src="https://github.com/fflori4n/fflori4n/raw/main/assets/devicons/powershell-plain.svg" alt="\" style="width: auto; height:3em;">
 </a>
 <a href="https://git-scm.com/" title="Git">
-<img src="assets/devicons/git-original.svg" alt="\" style="width: auto; height:3em;">
+<img src="https://github.com/fflori4n/fflori4n/raw/main/assets/devicons/git-original.svg" alt="\" style="width: auto; height:3em;">
 </a>
 <a href="https://opencv.org/" title="Open CV">
-<img src="assets/devicons/opencv-original.svg" alt="\" style="width: auto; height:3em;">
+<img src="https://github.com/fflori4n/fflori4n/raw/main/assets/devicons/opencv-original.svg" alt="\" style="width: auto; height:3em;">
 </a>
 <a href="https://grafana.com/" title="Grafana">
-<img src="assets/devicons/grafana-original.svg" alt="\" style="width: auto; height:3em;">
+<img src="https://github.com/fflori4n/fflori4n/raw/main/assets/devicons/grafana-original.svg" alt="\" style="width: auto; height:3em;">
 </a>
 <a href="https://www.influxdata.com/" title="Influx db">
-<img src="assets/devicons/influxdb-original.svg" alt="\" style="width: auto; height:3em;">
+<img src="https://github.com/fflori4n/fflori4n/raw/main/assets/devicons/influxdb-original.svg" alt="\" style="width: auto; height:3em;">
 </a>
 <a href="https://www.atlassian.com/software/jira" title="Jira">
-<img src="assets/devicons/jira-original.svg" alt="\" style="width: auto; height:3em;">
+<img src="https://github.com/fflori4n/fflori4n/raw/main/assets/devicons/jira-original.svg" alt="\" style="width: auto; height:3em;">
 </a>
 <a href="https://flutter.dev/" title="Flutter">
-<img src="assets/devicons/flutter-original.svg" alt="\" style="width: auto; height:3em;">
+<img src="https://github.com/fflori4n/fflori4n/raw/main/assets/devicons/flutter-original.svg" alt="\" style="width: auto; height:3em;">
 </a>
-</br>
-</br>
 </div>
 
 *Let me show you some **COOL** projects I worked on:*
-</br>
 <details>
   <summary>PROJECT PORTFOLIO:</summary>
 
