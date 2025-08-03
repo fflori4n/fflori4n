@@ -1,5 +1,4 @@
-##### *ABOUT*:
-Hi 👋, I am **fFlorian**, embedded engineer/ maker with a formal education in Mechatronics. I'm intereseted in:
+yhello 👋, I am **fFlorian**, embedded engineer/ maker with a formal education in Mechatronics. I'm intereseted in:
 - developing embedded solutions that connect the physical world with software logic
 - low level programming in C,C++
 - designing prototype parts for 3D printing
@@ -60,11 +59,13 @@ Grabcad:    [grabcad.com/florian.f-4](https://grabcad.com/florian.f-4)
 </br>
 </div>
 
-## *PROJECT PORTFOLIO:*
+## **
 *Let me show you some *COOL* projects I worked on:*
 </br>
+<details>
+  <summary>PROJECT PORTFOLIO:</summary>
 
-### **nod3-comfirm** - *Common firmware for ESP32 based devices*
+  ### **nod3-comfirm** - *Common firmware for ESP32 based devices*
 **`C++20` `ESP_IDF` `ESP32_C3`**
 
 Written using ESP_IDF and modern(ish) C++, nod3-comfirm aims to be used as a basic firmware for all my smart sensor devices. Firmware has basic functions that are needed for every IoT thing, like:
@@ -233,6 +234,9 @@ Also at some point, my coffee table was a 3D printer box with 3D printed legs, s
 <p align="center">
 <img src="assets/pics/coffee_table.png" alt="klipper" style="width: 60%; height:auto;">
 </p>
+
+</details>
+
 
 </details>
 
